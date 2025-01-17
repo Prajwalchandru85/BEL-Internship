@@ -22,7 +22,8 @@ A modern employee registration system that combines facial recognition, real-tim
 - Secure comparison between passport photo and live capture
 
 #### Liveness Detection System
-![python_zXByqakIhJ](https://github.com/user-attachments/assets/728b13c4-1047-4557-a46d-38156fef485a)
+![python_zXByqakIhJ](https://github.com/user-attachments/assets/431a14da-9f80-4518-bcad-214104a1830e)
+
 ### 3. Json based storage system
 ![Code_gUTlrtvbfa](https://github.com/user-attachments/assets/b8ee84de-36e9-4b5a-a007-a00c570a56b8)
 
